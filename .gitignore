@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+
+*.exe
+*.o
+*.out
+*.pyc
+.venv1/
+__pycache__/
+.ipynb_checkpoints/
